@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=southgiri)](https://velog.io/@southgiri/posts)
 
----
 
 **🧑‍💻 Lang and Frameworks**
 
