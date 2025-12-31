@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+### Velog
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=southgiri)](https://velog.io/@southgiri/posts)
+
+---
+
 **🧑‍💻 Lang and Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) 
 
 ---
@@ -26,10 +33,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyscroix)](https://solved.ac/lyscroix/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=lyscroix&theme=warm)
 
----
-
-### Velog
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=southgiri)](https://velog.io/@southgiri/posts)
 
 </div>
