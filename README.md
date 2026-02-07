@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 
 -->
 
-<div align="center">
-
 ### Velog
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=southgiri)](https://velog.io/@southgiri/posts)
 
 
-**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Tech**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -31,11 +29,3 @@ Here are some ideas to get you started:
 
 
 
-
-### Solved.ac
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyscroix)](https://solved.ac/lyscroix/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=lyscroix&theme=warm)
-
-
-</div>
